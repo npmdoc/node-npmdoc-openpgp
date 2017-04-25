@@ -1,4 +1,7 @@
-# api documentation for  [openpgp (v2.5.4)](http://openpgpjs.org/)  [![npm package](https://img.shields.io/npm/v/npmdoc-openpgp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-openpgp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-openpgp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-openpgp)
+# npmdoc-openpgp
+
+#### basic api documentation for  [openpgp (v2.5.4)](http://openpgpjs.org/)  [![npm package](https://img.shields.io/npm/v/npmdoc-openpgp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-openpgp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-openpgp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-openpgp)
+
 #### OpenPGP.js is a Javascript implementation of the OpenPGP protocol. This is defined in RFC 4880.
 
 [![NPM](https://nodei.co/npm/openpgp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/openpgp)
@@ -106,7 +109,8 @@
         "pretest": "grunt",
         "test": "grunt test"
     },
-    "version": "2.5.4"
+    "version": "2.5.4",
+    "bin": {}
 }
 ```
 
